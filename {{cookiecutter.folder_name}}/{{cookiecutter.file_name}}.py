@@ -1,1 +1,5 @@
 print("Hello,{{cookiecutter.name}}")
+print("Created items")
+print("folder_name:{{cookiecutter.cookiecutter_folder}}")
+print("file_name:{{cookiecutter.cookiecutter_file}}")
+print("folder_name:{{cookiecutter.template(html)}}")
