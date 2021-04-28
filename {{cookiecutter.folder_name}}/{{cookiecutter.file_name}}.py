@@ -1,5 +1,0 @@
-print("Hello,{{cookiecutter.name}}")
-print("Created items")
-print("folder_name:{{cookiecutter.folder_name}}")
-print("file_name:{{cookiecutter.file_name}}")
-print("folder_name:{{cookiecutter.template}}")
